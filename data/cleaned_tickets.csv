@@ -1,0 +1,151 @@
+ticket_id,created_date,customer_name,email,category,priority,channel,response_time,clean_name,clean_email,clean_date,clean_category,Clean_priority,response_days
+TKT-0001,01/15/2024,john doe,john.doe@gmail.com,Billing,High,Email,2 days,John Doe,john.doe@gmail.com,1/15/2024,Billing,High,2
+TKT-0002,2024-01-16,JANE SMITH,jane.smith@@yahoo.com,billing,Medium,Phone,48,Jane Smith,jane.smith@yahoo.com,1/16/2024,Billing,Medium,48
+TKT-0003,17-Jan-24,Mike  Johnson,mike.j@outlook.com,Blling,,Chat,3 days,Mike Johnson,mike.j@outlook.com,1/17/2024,Billing,Medium,3
+TKT-0004,01/18/2024,Sarah Lee,sarah.lee@gmail.com,Technical,Low,Email,24,Sarah Lee,sarah.lee@gmail.com,1/18/2024,Technical,Low,24
+TKT-0005,2024-01-19,robert brown,robert.brown@,tech support,High,Phone,2 days,Robert Brown,robert.brown@,1/19/2024,Technical,High,2
+TKT-0006,20-Jan-24,Emily Davis,emily.davis@gmail.com,Tech,Medium,Email,36,Emily Davis,emily.davis@gmail.com,1/20/2024,Technical,Medium,36
+TKT-0007,01/21/2024,David Wilson,david.wilson@gmail.com,Account,High,Chat,1 day,David Wilson,david.wilson@gmail.com,1/21/2024,Account,High,1
+TKT-0008,2024-01-22,Lisa  Anderson,lisa.anderson@@gmail.com,account,,Phone,72,Lisa Anderson,lisa.anderson@gmail.com,1/22/2024,Account,Medium,72
+TKT-0009,23-Jan-24,James Taylor,james.taylor@gmail.com,Acct,Low,Email,48,James Taylor,james.taylor@gmail.com,1/23/2024,Account,Low,48
+TKT-0010,01/24/2024,Jennifer Thomas,JENNIFER.THOMAS@GMAIL.COM,Sales,Medium,Chat,24,Jennifer Thomas,jennifer.thomas@gmail.com,1/24/2024,Sales,Medium,24
+TKT-0011,2024-01-25,Michael Moore,michael.moore@gmail.com,sales,High,Email,2 days,Michael Moore,michael.moore@gmail.com,1/25/2024,Sales,High,2
+TKT-0012,26-Jan-24,Jessica Jackson,jessica.jackson@gmail.com,Sles,Low,Phone,36,Jessica Jackson,jessica.jackson@gmail.com,1/26/2024,Sales,Low,36
+TKT-0013,01/27/2024,William White,william.white@gmail.com,Billing,Medium,Email,24,William White,william.white@gmail.com,1/27/2024,Billing,Medium,24
+TKT-0014,2024-01-28,Amanda Harris,amanda.harris@yahoo.com,billing,High,Chat,48,Amanda Harris,amanda.harris@yahoo.com,1/28/2024,Billing,High,48
+TKT-0015,29-Jan-24,Christopher Martin,chris.martin@gmail.com,Blling,Low,Phone,72,Christopher Martin,chris.martin@gmail.com,1/29/2024,Billing,Low,72
+TKT-0016,01/30/2024,Ashley Thompson,ashley.t@gmail.com,Technical,,Email,2 days,Ashley Thompson,ashley.t@gmail.com,1/30/2024,Technical,Medium,2
+TKT-0017,2024-01-31,Daniel Garcia,daniel.garcia@@outlook.com,tech support,Medium,Chat,24,Daniel Garcia,daniel.garcia@outlook.com,1/31/2024,Technical,Medium,24
+TKT-0018,01-Feb-24,Melissa Martinez,melissa.m@gmail.com,Tech,High,Email,36,Melissa Martinez,melissa.m@gmail.com,2/1/2024,Technical,High,36
+TKT-0019,02/02/2024,Matthew Robinson,matthew.robinson@gmail.com,Account,Low,Phone,48,Matthew Robinson,matthew.robinson@gmail.com,2/2/2024,Account,Low,48
+TKT-0020,2024-02-03,Stephanie Clark,stephanie.clark@,account,Medium,Email,24,Stephanie Clark,stephanie.clark@,2/3/2024,Account,Medium,24
+TKT-0021,03-Feb-24,Joshua Rodriguez,joshua.r@gmail.com,Acct,High,Chat,2 days,Joshua Rodriguez,joshua.r@gmail.com,2/3/2024,Account,High,2
+TKT-0022,02/04/2024,Rebecca Lewis,rebecca.lewis@gmail.com,Sales,Low,Phone,36,Rebecca Lewis,rebecca.lewis@gmail.com,2/4/2024,Sales,Low,36
+TKT-0023,2024-02-05,Laura Lee,laura.lee@@gmail.com,sales,,Email,48,Laura Lee,laura.lee@gmail.com,2/5/2024,Sales,Medium,48
+TKT-0024,05-Feb-24,Gary Walker,gary.walker@gmail.com,Sles,Medium,Chat,24,Gary Walker,gary.walker@gmail.com,2/5/2024,Sales,Medium,24
+TKT-0025,02/06/2024,Amy Hall,amy.hall@gmail.com,Billing,High,Email,2 days,Amy Hall,amy.hall@gmail.com,2/6/2024,Billing,High,2
+TKT-0026,2024-02-07,Brian Allen,brian.allen@yahoo.com,billing,Low,Phone,72,Brian Allen,brian.allen@yahoo.com,2/7/2024,Billing,Low,72
+TKT-0027,07-Feb-24,Kevin Young,kevin.young@gmail.com,Blling,Medium,Email,36,Kevin Young,kevin.young@gmail.com,2/7/2024,Billing,Medium,36
+TKT-0028,02/08/2024,Angela King,angela.king@gmail.com,Technical,High,Chat,24,Angela King,angela.king@gmail.com,2/8/2024,Technical,High,24
+TKT-0029,2024-02-09,Edward Wright,edward.wright@@outlook.com,tech support,Low,Phone,48,Edward Wright,edward.wright@outlook.com,2/9/2024,Technical,Low,48
+TKT-0030,09-Feb-24,Melissa Scott,melissa.scott@gmail.com,Tech,,Email,2 days,Melissa Scott,melissa.scott@gmail.com,2/9/2024,Technical,Medium,2
+TKT-0031,02/10/2024,Steven Green,steven.green@gmail.com,Account,Medium,Chat,24,Steven Green,steven.green@gmail.com,2/10/2024,Account,Medium,24
+TKT-0032,2024-02-11,Nicole Baker,nicole.baker@,account,High,Email,36,Nicole Baker,nicole.baker@,2/11/2024,Account,High,36
+TKT-0033,11-Feb-24,Brandon Adams,brandon.adams@gmail.com,Acct,Low,Phone,48,Brandon Adams,brandon.adams@gmail.com,2/11/2024,Account,Low,48
+TKT-0034,02/12/2024,Kimberly Nelson,kimberly.n@gmail.com,Sales,Medium,Email,24,Kimberly Nelson,kimberly.n@gmail.com,2/12/2024,Sales,Medium,24
+TKT-0035,2024-02-13,Justin Hill,justin.hill@@gmail.com,sales,High,Chat,2 days,Justin Hill,justin.hill@gmail.com,2/13/2024,Sales,High,2
+TKT-0036,13-Feb-24,Christina Ramirez,christina.r@gmail.com,Sles,Low,Phone,72,Christina Ramirez,christina.r@gmail.com,2/13/2024,Sales,Low,72
+TKT-0037,02/14/2024,Benjamin Campbell,ben.campbell@gmail.com,Billing,,Email,36,Benjamin Campbell,ben.campbell@gmail.com,2/14/2024,Billing,Medium,36
+TKT-0038,2024-02-15,Aaron Mitchell,aaron.mitchell@yahoo.com,billing,Medium,Chat,24,Aaron Mitchell,aaron.mitchell@yahoo.com,2/15/2024,Billing,Medium,24
+TKT-0039,15-Feb-24,Jonathan Roberts,jonathan.r@gmail.com,Blling,High,Email,48,Jonathan Roberts,jonathan.r@gmail.com,2/15/2024,Billing,High,48
+TKT-0040,02/16/2024,Deborah Carter,deborah.carter@gmail.com,Technical,Low,Phone,2 days,Deborah Carter,deborah.carter@gmail.com,2/16/2024,Technical,Low,2
+TKT-0041,2024-02-17,Sophia Phillips,sophia.p@@outlook.com,tech support,Medium,Email,24,Sophia Phillips,sophia.p@outlook.com,2/17/2024,Technical,Medium,24
+TKT-0042,17-Feb-24,Nicholas Evans,nick.evans@gmail.com,Tech,,Chat,36,Nicholas Evans,nick.evans@gmail.com,2/17/2024,Technical,Medium,36
+TKT-0043,02/18/2024,Heather Turner,heather.turner@gmail.com,Account,High,Email,48,Heather Turner,heather.turner@gmail.com,2/18/2024,Account,High,48
+TKT-0044,2024-02-19,Rachel Torres,rachel.torres@,account,Low,Phone,24,Rachel Torres,rachel.torres@,2/19/2024,Account,Low,24
+TKT-0045,19-Feb-24,Patrick Parker,patrick.p@gmail.com,Acct,Medium,Chat,2 days,Patrick Parker,patrick.p@gmail.com,2/19/2024,Account,Medium,2
+TKT-0046,02/20/2024,Samantha Collins,samantha.c@gmail.com,Sales,High,Email,36,Samantha Collins,samantha.c@gmail.com,2/20/2024,Sales,High,36
+TKT-0047,2024-02-21,Jack Edwards,jack.edwards@@gmail.com,sales,Low,Phone,48,Jack Edwards,jack.edwards@gmail.com,2/21/2024,Sales,Low,48
+TKT-0048,21-Feb-24,Carolyn Stewart,carolyn.s@gmail.com,Sles,,Email,24,Carolyn Stewart,carolyn.s@gmail.com,2/21/2024,Sales,Medium,24
+TKT-0049,02/22/2024,Gregory Morris,greg.morris@gmail.com,Billing,Medium,Chat,72,Gregory Morris,greg.morris@gmail.com,2/22/2024,Billing,Medium,72
+TKT-0050,2024-02-23,Betty Murphy,betty.murphy@yahoo.com,billing,High,Email,2 days,Betty Murphy,betty.murphy@yahoo.com,2/23/2024,Billing,High,2
+TKT-0051,23-Feb-24,Frank Cook,frank.cook@gmail.com,Blling,Low,Phone,36,Frank Cook,frank.cook@gmail.com,2/23/2024,Billing,Low,36
+TKT-0052,02/24/2024,Virginia Rogers,virginia.r@gmail.com,Technical,Medium,Email,24,Virginia Rogers,virginia.r@gmail.com,2/24/2024,Technical,Medium,24
+TKT-0053,2024-02-25,Alexander Reed,alex.reed@@outlook.com,tech support,High,Chat,48,Alexander Reed,alex.reed@outlook.com,2/25/2024,Technical,High,48
+TKT-0054,25-Feb-24,Megan Bailey,megan.bailey@gmail.com,Tech,Low,Email,2 days,Megan Bailey,megan.bailey@gmail.com,2/25/2024,Technical,Low,2
+TKT-0055,02/26/2024,Ryan Cooper,ryan.cooper@gmail.com,Account,,Phone,24,Ryan Cooper,ryan.cooper@gmail.com,2/26/2024,Account,Medium,24
+TKT-0056,2024-02-27,Cheryl Bell,cheryl.bell@,account,Medium,Chat,36,Cheryl Bell,cheryl.bell@,2/27/2024,Account,Medium,36
+TKT-0057,27-Feb-24,Kyle Gonzales,kyle.g@gmail.com,Acct,High,Email,48,Kyle Gonzales,kyle.g@gmail.com,2/27/2024,Account,High,48
+TKT-0058,02/28/2024,Andrea Nelson,andrea.nelson@gmail.com,Sales,Low,Phone,24,Andrea Nelson,andrea.nelson@gmail.com,2/28/2024,Sales,Low,24
+TKT-0059,2024-02-29,George Bailey,george.b@@gmail.com,sales,Medium,Email,2 days,George Bailey,george.b@gmail.com,2/29/2024,Sales,Medium,2
+TKT-0060,01-Mar-24,Elizabeth Sanders,elizabeth.s@gmail.com,Sles,High,Chat,36,Elizabeth Sanders,elizabeth.s@gmail.com,3/1/2024,Sales,High,36
+TKT-0061,03/02/2024,Jose Rivera,jose.rivera@gmail.com,Billing,Low,Phone,48,Jose Rivera,jose.rivera@gmail.com,3/2/2024,Billing,Low,48
+TKT-0062,2024-03-03,Megan Long,megan.long@yahoo.com,billing,,Email,24,Megan Long,megan.long@yahoo.com,3/3/2024,Billing,Medium,24
+TKT-0063,03-Mar-24,Dennis Foster,dennis.foster@gmail.com,Blling,Medium,Chat,72,Dennis Foster,dennis.foster@gmail.com,3/3/2024,Billing,Medium,72
+TKT-0064,03/04/2024,Kathleen Powell,kathleen.p@gmail.com,Technical,High,Email,2 days,Kathleen Powell,kathleen.p@gmail.com,3/4/2024,Technical,High,2
+TKT-0065,2024-03-05,Tyler Jenkins,tyler.j@@outlook.com,tech support,Low,Phone,36,Tyler Jenkins,tyler.j@outlook.com,3/5/2024,Technical,Low,36
+TKT-0066,05-Mar-24,Lori Perry,lori.perry@gmail.com,Tech,Medium,Email,24,Lori Perry,lori.perry@gmail.com,3/5/2024,Technical,Medium,24
+TKT-0067,03/06/2024,Nathan Russell,nathan.russell@gmail.com,Account,High,Chat,48,Nathan Russell,nathan.russell@gmail.com,3/6/2024,Account,High,48
+TKT-0068,2024-03-07,Brittany Griffin,brittany.g@,account,Low,Email,2 days,Brittany Griffin,brittany.g@,3/7/2024,Account,Low,2
+TKT-0069,07-Mar-24,Alan Hayes,alan.hayes@gmail.com,Acct,,Phone,24,Alan Hayes,alan.hayes@gmail.com,3/7/2024,Account,Medium,24
+TKT-0070,03/08/2024,Madison Bryant,madison.b@gmail.com,Sales,Medium,Chat,36,Madison Bryant,madison.b@gmail.com,3/8/2024,Sales,Medium,36
+TKT-0071,2024-03-09,Robert Alexander,robert.a@@gmail.com,sales,High,Email,48,Robert Alexander,robert.a@gmail.com,3/9/2024,Sales,High,48
+TKT-0072,09-Mar-24,Debra Watson,debra.watson@gmail.com,Sles,Low,Phone,24,Debra Watson,debra.watson@gmail.com,3/9/2024,Sales,Low,24
+TKT-0073,03/10/2024,Gerald Myers,gerald.myers@gmail.com,Billing,Medium,Email,2 days,Gerald Myers,gerald.myers@gmail.com,3/10/2024,Billing,Medium,2
+TKT-0074,2024-03-11,Barbara Ortiz,barbara.ortiz@yahoo.com,billing,High,Chat,36,Barbara Ortiz,barbara.ortiz@yahoo.com,3/11/2024,Billing,High,36
+TKT-0075,11-Mar-24,Christian Palmer,christian.p@gmail.com,Blling,Low,Phone,48,Christian Palmer,christian.p@gmail.com,3/11/2024,Billing,Low,48
+TKT-0076,03/12/2024,Aaron Newman,aaron.newman@gmail.com,Technical,,Email,24,Aaron Newman,aaron.newman@gmail.com,3/12/2024,Technical,Medium,24
+TKT-0077,2024-03-13,Deborah Crawford,deb.crawford@@outlook.com,tech support,Medium,Chat,72,Deborah Crawford,deb.crawford@outlook.com,3/13/2024,Technical,Medium,72
+TKT-0078,13-Mar-24,Paul Black,paul.black@gmail.com,Tech,High,Email,2 days,Paul Black,paul.black@gmail.com,3/13/2024,Technical,High,2
+TKT-0079,03/14/2024,Ashley Holmes,ashley.h@gmail.com,Account,Low,Phone,36,Ashley Holmes,ashley.h@gmail.com,3/14/2024,Account,Low,36
+TKT-0080,2024-03-15,Michael Burns,michael.burns@,account,Medium,Email,24,Michael Burns,michael.burns@,3/15/2024,Account,Medium,24
+TKT-0081,15-Mar-24,Judy Murphy,judy.murphy@gmail.com,Acct,High,Chat,48,Judy Murphy,judy.murphy@gmail.com,3/15/2024,Account,High,48
+TKT-0082,03/16/2024,Sean Price,sean.price@gmail.com,Sales,,Email,2 days,Sean Price,sean.price@gmail.com,3/16/2024,Sales,Medium,2
+TKT-0083,2024-03-17,Crystal Barnes,crystal.b@@gmail.com,sales,Medium,Phone,24,Crystal Barnes,crystal.b@gmail.com,3/17/2024,Sales,Medium,24
+TKT-0084,17-Mar-24,Jason Wells,jason.wells@gmail.com,Sles,High,Email,36,Jason Wells,jason.wells@gmail.com,3/17/2024,Sales,High,36
+TKT-0085,03/18/2024,Jasmine Lawson,jasmine.l@gmail.com,Billing,Low,Chat,48,Jasmine Lawson,jasmine.l@gmail.com,3/18/2024,Billing,Low,48
+TKT-0086,2024-03-19,Arthur Morgan,arthur.morgan@yahoo.com,billing,Medium,Email,24,Arthur Morgan,arthur.morgan@yahoo.com,3/19/2024,Billing,Medium,24
+TKT-0087,19-Mar-24,Emily Freeman,emily.freeman@gmail.com,Blling,High,Phone,2 days,Emily Freeman,emily.freeman@gmail.com,3/19/2024,Billing,High,2
+TKT-0088,03/20/2024,John Keller,john.keller@gmail.com,Technical,Low,Email,36,John Keller,john.keller@gmail.com,3/20/2024,Technical,Low,36
+TKT-0089,2024-03-21,Mary Howard,mary.h@@outlook.com,tech support,,Chat,48,Mary Howard,mary.h@outlook.com,3/21/2024,Technical,Medium,48
+TKT-0090,21-Mar-24,Brenda Lane,brenda.lane@gmail.com,Tech,Medium,Email,24,Brenda Lane,brenda.lane@gmail.com,3/21/2024,Technical,Medium,24
+TKT-0091,03/22/2024,Jordan Rice,jordan.rice@gmail.com,Account,High,Phone,72,Jordan Rice,jordan.rice@gmail.com,3/22/2024,Account,High,72
+TKT-0092,2024-03-23,Janet Webb,janet.webb@,account,Low,Email,2 days,Janet Webb,janet.webb@,3/23/2024,Account,Low,2
+TKT-0093,23-Mar-24,Ronald Dixon,ronald.dixon@gmail.com,Acct,Medium,Chat,36,Ronald Dixon,ronald.dixon@gmail.com,3/23/2024,Account,Medium,36
+TKT-0094,03/24/2024,Frances Carpenter,frances.c@gmail.com,Sales,High,Email,24,Frances Carpenter,frances.c@gmail.com,3/24/2024,Sales,High,24
+TKT-0095,2024-03-25,Jerry Hunter,jerry.h@@gmail.com,sales,Low,Phone,48,Jerry Hunter,jerry.h@gmail.com,3/25/2024,Sales,Low,48
+TKT-0096,25-Mar-24,Kathryn Perkins,kathryn.p@gmail.com,Sles,,Email,2 days,Kathryn Perkins,kathryn.p@gmail.com,3/25/2024,Sales,Medium,2
+TKT-0097,03/26/2024,Adam Grant,adam.grant@gmail.com,Billing,Medium,Chat,24,Adam Grant,adam.grant@gmail.com,3/26/2024,Billing,Medium,24
+TKT-0098,2024-03-27,Mildred Chapman,mildred.c@yahoo.com,billing,High,Email,36,Mildred Chapman,mildred.c@yahoo.com,3/27/2024,Billing,High,36
+TKT-0099,27-Mar-24,Philip Oliver,philip.oliver@gmail.com,Blling,Low,Phone,48,Philip Oliver,philip.oliver@gmail.com,3/27/2024,Billing,Low,48
+TKT-0100,03/28/2024,Marie Robertson,marie.r@gmail.com,Technical,Medium,Email,24,Marie Robertson,marie.r@gmail.com,3/28/2024,Technical,Medium,24
+TKT-0101,2024-03-29,Jesse Simmons,jesse.s@@outlook.com,tech support,High,Chat,2 days,Jesse Simmons,jesse.s@outlook.com,3/29/2024,Technical,High,2
+TKT-0102,29-Mar-24,Rachel Bradley,rachel.bradley@gmail.com,Tech,Low,Email,36,Rachel Bradley,rachel.bradley@gmail.com,3/29/2024,Technical,Low,36
+TKT-0103,03/30/2024,Austin Weaver,austin.weaver@gmail.com,Account,,Phone,48,Austin Weaver,austin.weaver@gmail.com,3/30/2024,Account,Medium,48
+TKT-0104,2024-03-31,Martha Dixon,martha.dixon@,account,Medium,Email,24,Martha Dixon,martha.dixon@,3/31/2024,Account,Medium,24
+TKT-0105,31-Mar-24,Russell Murphy,russell.m@gmail.com,Acct,High,Chat,72,Russell Murphy,russell.m@gmail.com,3/31/2024,Account,High,72
+TKT-0106,04/01/2024,Victoria Carroll,victoria.c@gmail.com,Sales,Low,Email,2 days,Victoria Carroll,victoria.c@gmail.com,4/1/2024,Sales,Low,2
+TKT-0107,2024-04-02,Roy Baker,roy.baker@@gmail.com,sales,Medium,Phone,36,Roy Baker,roy.baker@gmail.com,4/2/2024,Sales,Medium,36
+TKT-0108,02-Apr-24,Beverly Young,beverly.young@gmail.com,Sles,High,Email,48,Beverly Young,beverly.young@gmail.com,4/2/2024,Sales,High,48
+TKT-0109,04/03/2024,Donald Allen,donald.allen@gmail.com,Billing,Low,Chat,24,Donald Allen,donald.allen@gmail.com,4/3/2024,Billing,Low,24
+TKT-0110,2024-04-04,Janice King,janice.king@yahoo.com,billing,,Email,2 days,Janice King,janice.king@yahoo.com,4/4/2024,Billing,Medium,2
+TKT-0111,04-Apr-24,Wayne Wright,wayne.w@gmail.com,Blling,Medium,Phone,36,Wayne Wright,wayne.w@gmail.com,4/4/2024,Billing,Medium,36
+TKT-0112,04/05/2024,Cheryl Scott,cheryl.scott@gmail.com,Technical,High,Email,48,Cheryl Scott,cheryl.scott@gmail.com,4/5/2024,Technical,High,48
+TKT-0113,2024-04-06,Gerald Green,gerald.g@@outlook.com,tech support,Low,Chat,24,Gerald Green,gerald.g@outlook.com,4/6/2024,Technical,Low,24
+TKT-0114,06-Apr-24,Alice Adams,alice.adams@gmail.com,Tech,Medium,Email,72,Alice Adams,alice.adams@gmail.com,4/6/2024,Technical,Medium,72
+TKT-0115,04/07/2024,Henry Baker,henry.baker@gmail.com,Account,High,Phone,2 days,Henry Baker,henry.baker@gmail.com,4/7/2024,Account,High,2
+TKT-0116,2024-04-08,Madison Nelson,madison.n@,account,Low,Email,36,Madison Nelson,madison.n@,4/8/2024,Account,Low,36
+TKT-0117,08-Apr-24,Peter Hill,peter.hill@gmail.com,Acct,,Chat,48,Peter Hill,peter.hill@gmail.com,4/8/2024,Account,Medium,48
+TKT-0118,04/09/2024,Carol Rivera,carol.r@gmail.com,Sales,Medium,Email,24,Carol Rivera,carol.r@gmail.com,4/9/2024,Sales,Medium,24
+TKT-0119,2024-04-10,Samuel Campbell,samuel.c@@gmail.com,sales,High,Phone,2 days,Samuel Campbell,samuel.c@gmail.com,4/10/2024,Sales,High,2
+TKT-0120,10-Apr-24,Kimberly Mitchell,kimberly.m@gmail.com,Sles,Low,Email,36,Kimberly Mitchell,kimberly.m@gmail.com,4/10/2024,Sales,Low,36
+TKT-0121,04/11/2024,Doris Roberts,doris.roberts@gmail.com,Billing,Medium,Chat,48,Doris Roberts,doris.roberts@gmail.com,4/11/2024,Billing,Medium,48
+TKT-0122,2024-04-12,Patrick Carter,patrick.c@yahoo.com,billing,High,Email,24,Patrick Carter,patrick.c@yahoo.com,4/12/2024,Billing,High,24
+TKT-0123,12-Apr-24,Randy Phillips,randy.p@gmail.com,Blling,Low,Phone,72,Randy Phillips,randy.p@gmail.com,4/12/2024,Billing,Low,72
+TKT-0124,04/13/2024,Nicole Evans,nicole.evans@gmail.com,Technical,,Email,2 days,Nicole Evans,nicole.evans@gmail.com,4/13/2024,Technical,Medium,2
+TKT-0125,2024-04-14,Ethan Turner,ethan.t@@outlook.com,tech support,Medium,Chat,36,Ethan Turner,ethan.t@outlook.com,4/14/2024,Technical,Medium,36
+TKT-0126,14-Apr-24,Austin Torres,austin.torres@gmail.com,Tech,High,Email,48,Austin Torres,austin.torres@gmail.com,4/14/2024,Technical,High,48
+TKT-0127,04/15/2024,Theresa Parker,theresa.p@gmail.com,Account,Low,Phone,24,Theresa Parker,theresa.p@gmail.com,4/15/2024,Account,Low,24
+TKT-0128,2024-04-16,Jeremy Collins,jeremy.collins@,account,Medium,Email,2 days,Jeremy Collins,jeremy.collins@,4/16/2024,Account,Medium,2
+TKT-0129,16-Apr-24,Rose Edwards,rose.edwards@gmail.com,Acct,High,Chat,36,Rose Edwards,rose.edwards@gmail.com,4/16/2024,Account,High,36
+TKT-0130,04/17/2024,Jacob Stewart,jacob.s@gmail.com,Sales,Low,Email,48,Jacob Stewart,jacob.s@gmail.com,4/17/2024,Sales,Low,48
+TKT-0131,2024-04-18,Brenda Morris,brenda.m@@gmail.com,sales,Medium,Phone,24,Brenda Morris,brenda.m@gmail.com,4/18/2024,Sales,Medium,24
+TKT-0132,18-Apr-24,Gary Murphy,gary.murphy@gmail.com,Sles,High,Email,72,Gary Murphy,gary.murphy@gmail.com,4/18/2024,Sales,High,72
+TKT-0133,04/19/2024,Katherine Cook,katherine.c@yahoo.com,Billing,Low,Chat,2 days,Katherine Cook,katherine.c@yahoo.com,4/19/2024,Billing,Low,2
+TKT-0134,2024-04-20,Jack Rogers,jack.rogers@gmail.com,billing,,Email,36,Jack Rogers,jack.rogers@gmail.com,4/20/2024,Billing,Medium,36
+TKT-0135,20-Apr-24,Deborah Reed,deborah.r@gmail.com,Blling,Medium,Phone,48,Deborah Reed,deborah.r@gmail.com,4/20/2024,Billing,Medium,48
+TKT-0136,04/21/2024,Brian Bailey,brian.bailey@gmail.com,Technical,High,Email,24,Brian Bailey,brian.bailey@gmail.com,4/21/2024,Technical,High,24
+TKT-0137,2024-04-22,Christina Cooper,christina.c@@outlook.com,tech support,Low,Chat,2 days,Christina Cooper,christina.c@outlook.com,4/22/2024,Technical,Low,2
+TKT-0138,22-Apr-24,Anthony Bell,anthony.bell@gmail.com,Tech,Medium,Email,36,Anthony Bell,anthony.bell@gmail.com,4/22/2024,Technical,Medium,36
+TKT-0139,04/23/2024,Virginia Gonzales,virginia.g@,Account,High,Phone,48,Virginia Gonzales,virginia.g@,4/23/2024,Account,High,48
+TKT-0140,2024-04-24,Sarah Nelson,sarah.nelson@gmail.com,account,Low,Email,24,Sarah Nelson,sarah.nelson@gmail.com,4/24/2024,Account,Low,24
+TKT-0141,24-Apr-24,Justin Sanders,justin.s@gmail.com,Acct,,Chat,72,Justin Sanders,justin.s@gmail.com,4/24/2024,Account,Medium,72
+TKT-0142,04/25/2024,Madison Rivera,madison.r@@gmail.com,Sales,Medium,Email,2 days,Madison Rivera,madison.r@gmail.com,4/25/2024,Sales,Medium,2
+TKT-0143,2024-04-26,Peter Long,peter.long@gmail.com,sales,High,Phone,36,Peter Long,peter.long@gmail.com,4/26/2024,Sales,High,36
+TKT-0144,26-Apr-24,Debra Foster,debra.foster@gmail.com,Sles,Low,Email,48,Debra Foster,debra.foster@gmail.com,4/26/2024,Sales,Low,48
+TKT-0145,04/27/2024,Philip Powell,philip.p@yahoo.com,Billing,Medium,Chat,24,Philip Powell,philip.p@yahoo.com,4/27/2024,Billing,Medium,24
+TKT-0146,2024-04-28,Marie Jenkins,marie.j@gmail.com,billing,High,Email,2 days,Marie Jenkins,marie.j@gmail.com,4/28/2024,Billing,High,2
+TKT-0147,28-Apr-24,Jesse Perry,jesse.perry@gmail.com,Blling,Low,Phone,36,Jesse Perry,jesse.perry@gmail.com,4/28/2024,Billing,Low,36
+TKT-0148,04/29/2024,Rachel Russell,rachel.r@gmail.com,Technical,,Email,48,Rachel Russell,rachel.r@gmail.com,4/29/2024,Technical,Medium,48
+TKT-0149,2024-04-30,Austin Griffin,austin.g@@outlook.com,tech support,Medium,Chat,24,Austin Griffin,austin.g@outlook.com,4/30/2024,Technical,Medium,24
+TKT-0150,30-Apr-24,Theresa Hayes,theresa.hayes@gmail.com,Tech,High,Email,72,Theresa Hayes,theresa.hayes@gmail.com,4/30/2024,Technical,High,72
