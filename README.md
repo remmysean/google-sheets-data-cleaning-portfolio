@@ -3,7 +3,9 @@
 A portfolio project demonstrating data cleaning, standardization, and analysis
 in Google Sheets on a messy customer-support dataset.
 
-link:  https://docs.google.com/spreadsheets/d/1hjYM7FnU5xajkp2HPWqQQal1ccJLcaOHOR9vFaZW_w8/edit?gid=1938736372#gid=1938736372
+Google Sheets link:  https://docs.google.com/spreadsheets/d/1hjYM7FnU5xajkp2HPWqQQal1ccJLcaOHOR9vFaZW_w8/edit?gid=1938736372#gid=1938736372
+
+PowerPoint Presentation link: https://docs.google.com/presentation/d/1jOUdzlkAYXxGGo2ScLLchKBvBSy6slTg/edit?usp=drivesdk&ouid=105530873158588481198&rtpof=true&sd=true
 
 ## Why this project
 Built for **Data Analyst** and **Technical Support Specialist** roles:
